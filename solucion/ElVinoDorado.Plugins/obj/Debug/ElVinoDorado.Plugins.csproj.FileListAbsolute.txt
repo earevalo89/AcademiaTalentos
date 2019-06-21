@@ -1,0 +1,13 @@
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\ElVinoDorado.Plugins.dll
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\ElVinoDorado.Plugins.pdb
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\obj\Debug\ElVinoDorado.Plugins.csproj.CoreCompileInputs.cache
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\obj\Debug\ElVinoDorado.Plugins.csproj.CopyComplete
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\obj\Debug\ElVinoDorado.Plugins.dll
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\obj\Debug\ElVinoDorado.Plugins.pdb
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\Cursos\Microsoft\CRMDev\ElVinoDorado\solucion\ElVinoDorado.Plugins\obj\Debug\ElVinoDorado.Plugins.csprojAssemblyReference.cache

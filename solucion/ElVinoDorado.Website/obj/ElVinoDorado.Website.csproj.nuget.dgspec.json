@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cursos\\Microsoft\\CRMDev\\ElVinoDorado\\solucion\\ElVinoDorado.Website\\ElVinoDorado.Website.csproj": {}
+  },
+  "projects": {
+    "D:\\Cursos\\Microsoft\\CRMDev\\ElVinoDorado\\solucion\\ElVinoDorado.Website\\ElVinoDorado.Website.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\Microsoft\\CRMDev\\ElVinoDorado\\solucion\\ElVinoDorado.Website\\ElVinoDorado.Website.csproj",
+        "projectName": "ElVinoDorado.Website",
+        "projectPath": "D:\\Cursos\\Microsoft\\CRMDev\\ElVinoDorado\\solucion\\ElVinoDorado.Website\\ElVinoDorado.Website.csproj",
+        "packagesPath": "C:\\Users\\edwin.arevalo\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\Microsoft\\CRMDev\\ElVinoDorado\\solucion\\ElVinoDorado.Website\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edwin.arevalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CrmSdk.CoreAssemblies": {
+              "target": "Package",
+              "version": "[9.0.2.12, )"
+            },
+            "Microsoft.NET.Sdk.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
